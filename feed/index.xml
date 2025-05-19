@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/</link>
+<description>Latest posts from blog.pluginpal.app</description>
+<atom:link href="https://blog.pluginpal.app/feed/index.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Mon, 19 May 2025 15:34:50 GMT</lastBuildDate>
+<language>en-us</language>
+
+<item>
+<title>Welcome to the Plugin Pal blog - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/welcome-to-the-plugin-pal-blog/</link>
+<description>Let's keep this simple. Plugin Pal is live - and this blog is where it all unfolds. If you're a WordPress developer (or even just plugin-curious), this is for you....
+</description>
+<guid isPermaLink="false">6993ded41a2d73702b3f7594c6e64312</guid>
+<pubDate>Mon, 19 May 2025 11:34:50 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
