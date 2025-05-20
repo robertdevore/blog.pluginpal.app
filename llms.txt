@@ -3,6 +3,7 @@
 This site contains structured content formatted for LLM-friendly consumption.
 
 ## Posts
+- [Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How)](https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/): ID 4032103999
 - [Welcome to the Plugin Pal blog](https://blog.pluginpal.app/blog/welcome-to-the-plugin-pal-blog/): ID 1771298516
 
 ## Pages
