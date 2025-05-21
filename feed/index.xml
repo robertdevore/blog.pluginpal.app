@@ -5,17 +5,8 @@
 <link>https://blog.pluginpal.app/</link>
 <description>Latest posts from blog.pluginpal.app</description>
 <atom:link href="https://blog.pluginpal.app/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Wed, 21 May 2025 02:03:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 May 2025 21:20:08 GMT</lastBuildDate>
 <language>en-us</language>
-
-<item>
-<title>Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How) - blog.pluginpal.app</title>
-<link>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</link>
-<description>For years, if you wanted a custom WordPress plugin, you had three options: - Hire a developer (expensive, time-consuming) - Use a bloated plugin that sort of worked - Or...
-</description>
-<guid isPermaLink="false">f055063febde7d862fe7da1b27a7a7d7</guid>
-<pubDate>Tue, 20 May 2025 22:03:59 +0000</pubDate>
-</item>
 
 <item>
 <title>Welcome to the Plugin Pal blog - blog.pluginpal.app</title>
@@ -23,7 +14,25 @@
 <description>Let's keep this simple. Plugin Pal is live - and this blog is where it all unfolds. If you're a WordPress developer (or even just plugin-curious), this is for you....
 </description>
 <guid isPermaLink="false">6993ded41a2d73702b3f7594c6e64312</guid>
-<pubDate>Tue, 20 May 2025 22:03:59 +0000</pubDate>
+<pubDate>Wed, 21 May 2025 17:20:08 +0000</pubDate>
+</item>
+
+<item>
+<title>Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How) - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</link>
+<description>For years, if you wanted a custom WordPress plugin, you had three options: - Hire a developer (expensive, time-consuming) - Use a bloated plugin that sort of worked - Or...
+</description>
+<guid isPermaLink="false">f055063febde7d862fe7da1b27a7a7d7</guid>
+<pubDate>Wed, 21 May 2025 17:20:08 +0000</pubDate>
+</item>
+
+<item>
+<title>The Surprisingly Simple Way to Build WordPress Plugins Without Code - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/the-surprisingly-simple-way-to-build-wordpress-plugins-without-code/</link>
+<description>Let's be honest. Most &amp;quot;no-code&amp;quot; tools for WordPress either overpromise, underdeliver, or wrap you in so much complexity that you may as well just learn to code. You've got drag-and-drop...
+</description>
+<guid isPermaLink="false">f02fd77a415ca78e37358056f0d8fdfb</guid>
+<pubDate>Wed, 21 May 2025 17:20:08 +0000</pubDate>
 </item>
 
 </channel>

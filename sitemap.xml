@@ -3,12 +3,7 @@
     
     <url>
         <loc>https://blog.pluginpal.app/</loc>
-        <lastmod>2025-05-20T22:03:59Z</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</loc>
-        <lastmod>2025-05-20T00:00:00Z</lastmod>
+        <lastmod>2025-05-21T17:20:08Z</lastmod>
     </url>
     
     <url>
@@ -17,8 +12,18 @@
     </url>
     
     <url>
+        <loc>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</loc>
+        <lastmod>2025-05-20T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://blog.pluginpal.app/blog/the-surprisingly-simple-way-to-build-wordpress-plugins-without-code/</loc>
+        <lastmod>2025-05-21T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
         <loc>https://blog.pluginpal.app/about/</loc>
-        <lastmod>2025-05-20T22:03:59Z</lastmod>
+        <lastmod>2025-05-21T17:20:08Z</lastmod>
     </url>
     
 </urlset>
