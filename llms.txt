@@ -4,8 +4,9 @@ This site contains structured content formatted for LLM-friendly consumption.
 
 ## Posts
 - [Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How)](https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/): ID 4032103999
-- [You Shouldn't Need a Dev for a 'Hide Price Until Logged In' Toggle](https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/): ID 2291430718
 - [Welcome to the Plugin Pal blog](https://blog.pluginpal.app/blog/welcome-to-the-plugin-pal-blog/): ID 1771298516
+- [You Shouldn't Need a Dev for a 'Hide Price Until Logged In' Toggle](https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/): ID 2291430718
+- [Agencies: How Many Hours Do You Lose Waiting on Plugin Edits?](https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/): ID 2062437965
 - [The Surprisingly Simple Way to Build WordPress Plugins Without Code](https://blog.pluginpal.app/blog/the-surprisingly-simple-way-to-build-wordpress-plugins-without-code/): ID 4029667194
 
 ## Pages
