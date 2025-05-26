@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 Common WordPress Features You Can Build Without Code | Plugin Pal</title>
+    <meta name="description" content="Plugin Pal is a no-code WordPress Plugin Generator.">
+    <meta name="keywords" content="WordPress Plugin Generator, Plugin Generator, WordPress Plugins, No-Code WordPress Plugins">
+    <meta name="author" content="Robert">
+    <link href="../../assets/css/tailwind.min.css" rel="stylesheet preload" as="style">
+    
+    <link href="../../assets/css/stattic.css" rel="stylesheet preload" as="style">
+    <link href="../../assets/css/fonts.css" rel="stylesheet preload" as="style">
+    
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="5 Common WordPress Features You Can Build Without Code">
+    <meta property="og:description" content="Plugin Pal is a no-code WordPress Plugin Generator">
+    <meta property="og:url" content="https://blog.pluginpal.app/">
+    <meta property="og:type" content="website">
+    
+    <meta property="og:image" content="../../assets/images/plugin-pal-5-common-wp-features-you-can-build-without-code.webp">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="5 Common WordPress Features You Can Build Without Code">
+    <meta name="twitter:description" content="Plugin Pal is a no-code WordPress Plugin Generator.">
+    
+    <meta name="twitter:image" content="../../assets/images/plugin-pal-5-common-wp-features-you-can-build-without-code.webp">
+    
+    <!-- Alpine.js for interactive components -->
+    <script src="../../assets/js/alpine.min.js" defer></script>
+</head>
+<body class="bg-black bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-slate-900 to-slate-950 text-white text-primary quicksand-300">
+
+<!-- Skip Links for Accessibility -->
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<a href="#navigation" class="skip-link">Skip to navigation</a>
+<a href="#footer" class="skip-link">Skip to footer</a>
+
+<header id="navigation">
+    <div class="container max-w-screen-xl m-auto py-6 px-4 flex justify-between items-center">
+        <h2 class="flex items-center text-4xl font-bold text-amber-500 bg-gradient-to-tl from-amber-700 via-amber-500 to-amber-600 bg-clip-text text-transparent"><a href="../../" class="text-links">PLUGIN PAL</a></h2>
+        <nav>
+            <ul class="flex space-x-6">
+                <li>
+                    <a href="https://pluginpal.app/generator" class="text-primary hover:underline quicksand-700">Generator</a>
+                </li>
+                
+                    
+                        <li>
+                            <a href="../../about/" class="text-primary hover:underline quicksand-700">About Plugin Pal</a>
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+<main class="container max-w-2xl m-auto py-10 px-4" id="main-content">
+    <article class="prose dark:prose-dark max-w-none stattic-content">
+        <h1 class="text-6xl font-bold mb-4 text-links quicksand-700 post-title">5 Common WordPress Features You Can Build Without Code</h1>
+        <p class="text-2md post-meta mb-4 pb-2 text-accent italic border-b border-primary"><span class="date">May 25, 2025</span> &middot; <span class="author">Robert</span></p>
+        <p>Let's cut to it.</p>
+<p>Most WordPress features aren't complex. They're just buried under layers of code, plugin bloat, and outdated workflows that assume every change needs a developer. Spoiler: it doesn't.</p>
+<p>Whether you're a freelancer, agency PM, or power user, chances are you've been stuck waiting on a dev for something that should have taken five minutes. A new post type. A little logic tweak. A simple UI control.</p>
+<p>These aren't code problems. They're friction problems.</p>
+<p>So here's the fix: five common WordPress features you can build <em>yourself</em> - no code, no queue, no excuses.</p>
+<h3>1. Custom Post Types and Taxonomies</h3>
+<p>You know this one.</p>
+<p>Client wants a &quot;Projects&quot; section with categories like &quot;Web&quot; and &quot;Print&quot;? That's a custom post type with a custom taxonomy.</p>
+<p>Normally, you would:</p>
+<ul>
+<li>Register it in <code>functions.php</code> (and hope you don't typo <code>public =&gt; ture</code>)</li>
+<li>Build out labels and rewrite slugs</li>
+<li>Hook it into the admin menu</li>
+<li>Then wonder why it's not showing up in your archive template</li>
+</ul>
+<p>It's a simple boilerplate, but it's still tedious.</p>
+<p>Instead? Just describe what you need:</p>
+<blockquote>
+<p>&quot;Create a custom post type called 'Projects' with a taxonomy called 'Project Type'. Show both in the admin menu.&quot;</p>
+</blockquote>
+<p>Done. You've got a working CPT, properly registered, with clean slugs and admin integration - without touching a single line of code.</p>
+<p>Use <a href="https://pluginpal.app">Plugin Pal</a>, use a generator, whatever. Just stop writing the same 60 lines of code over and over 🤦‍♂️</p>
+<h3>2. Shortcodes for Layout Components</h3>
+<p>Shortcodes should be simple.</p>
+<p>You want a <code>[button]</code>, <code>[testimonial]</code>, or <code>[faq]</code> that outputs a block of HTML and maybe pulls in a few fields.</p>
+<p>But the minute you try to write one yourself, you're Googling how to sanitize attributes, echo safely, and enqueue assets the &quot;WordPress Way.&quot;</p>
+<p>The reality? Most shortcodes are:</p>
+<ul>
+<li>A wrapper for some markup</li>
+<li>Maybe pulling a few options</li>
+<li>Used inside a block or classic editor</li>
+</ul>
+<p>That doesn't require a developer. It requires a sentence:</p>
+<blockquote>
+<p>&quot;Create a shortcode called <code>[cta_box]</code> that shows a headline, paragraph, and button with three attributes: title, text, and link.&quot;</p>
+</blockquote>
+<p>Boom. You've got a reusable block that even clients can use.</p>
+<p>Stop hunting for the one plugin that sorta does what you want. Build the one that does exactly what you need - and nothing more.</p>
+<h3>3. WooCommerce Logic Tweaks</h3>
+<p>This is where most store owners get stuck.</p>
+<p>They want to:</p>
+<ul>
+<li>Hide prices until login</li>
+<li>Disable checkout for certain roles</li>
+<li>Add a minimum order total by category</li>
+<li>Show a custom message after purchase</li>
+</ul>
+<p>And every time, the advice is the same: &quot;Just drop this snippet in.&quot;<br />
+Then pray your functions file doesn't implode.</p>
+<p>But these aren't hard problems - they're <em>specific</em> ones. And if you can describe the logic, you can build the plugin.</p>
+<blockquote>
+<p>&quot;Hide all prices unless the user is logged in. It should apply to shop, archive, and product pages.&quot;</p>
+<p>&quot;Only allow checkout if the cart contains at least $50 worth of products from the 'Apparel' category.&quot;</p>
+</blockquote>
+<p>Each of those becomes a plugin - instantly. Clean, scoped, and undoable.</p>
+<p>That's the key. It's not about hacking WooCommerce. It's about solving your exact problem without stacking 12 plugins that each solve 5% of it.</p>
+<h3>4. Admin Interface Changes</h3>
+<p>Let's say your client wants a new column in the admin list view to show a custom field.</p>
+<p>Or maybe they want to rename &quot;Posts&quot; to &quot;Articles.&quot;</p>
+<p>Or show a notification only to Editors.</p>
+<p>None of this should take a dev.</p>
+<p>But here we are. You open a ticket. Your dev rolls their eyes.</p>
+<p>Two days later, it's still not done because &quot;something more urgent came up.&quot;</p>
+<p>What if you could just say:</p>
+<blockquote>
+<p>&quot;Add a new column in the admin list view for 'Projects' that displays the value of the 'Client Name' custom field.&quot;</p>
+<p>&quot;Rename the 'Posts' menu item in the dashboard to 'Articles'.&quot;</p>
+</blockquote>
+<p>Describe the change. Generate the plugin. Move on.</p>
+<p>These aren't engineering tasks. They're configuration wrapped in PHP.</p>
+<h3>5. Frontend UI Controls (Sliders, Tabs, Accordions)</h3>
+<p>Here's the truth: every site ends up needing a slider. Or tabs. Or some expandable content.</p>
+<p>The problem isn't functionality - it's control.</p>
+<p>Most &quot;all-in-one&quot; plugins give you 800 options, 16 styles, and a UI from 2012.</p>
+<p>But you don't need all that. You need a simple, reusable component you can drop in where it matters.</p>
+<blockquote>
+<p>&quot;Create a shortcode called <code>[logo_slider]</code> that outputs a responsive slider with logos from the 'Client' custom post type.&quot;</p>
+<p>&quot;Build a toggle FAQ section where each question expands to show an answer when clicked.&quot;</p>
+</blockquote>
+<p>These aren't JS-heavy apps. They're layout helpers.</p>
+<p>And with the right tools, you don't need to wrangle jQuery or mess with enqueue priorities - just prompt and go.</p>
+<h3>The Real Problem Isn't Code. It's the Process.</h3>
+<p>WordPress has trained people to believe that every tweak, every feature, every tiny change requires a dev.</p>
+<p>It doesn't.</p>
+<p>You're not asking for a React app. You're asking for:</p>
+<ul>
+<li>A CPT with some fields</li>
+<li>A few lines of display logic</li>
+<li>A way to simplify the admin</li>
+<li>A small tweak to Woo behavior</li>
+</ul>
+<p>These are solved problems. You just need the shortest path to implementing them.</p>
+<p>That's where tools like Plugin Pal change the game.</p>
+<p>You describe what you want.<br />
+It builds the plugin.<br />
+You stay focused.</p>
+<p>No dev backlogs.<br />
+No plugin overkill.<br />
+No &quot;just one more thing&quot; rewrites.</p>
+<h2>TL;DR: Most WordPress Features Aren't Worth Coding Anymore</h2>
+<p>We're past the point where every task should be written from scratch.</p>
+<p>Stop re-writing boilerplate code. Stop waiting on devs for things that aren't dev work.</p>
+<p>And definitely stop duct-taping three plugins together to get half a feature.</p>
+<p>Build exactly what you need - without code.</p>
+<p>👉 <a href="https://pluginpal.app">Try Plugin Pal</a></p>
+<p>Because &quot;simple&quot; should <em>actually</em> be simple.</p>
+
+    </article>
+</main>
+
+
+<footer class="bg-background border-t border-primary mt-10 py-6" id="footer">
+    <div class="container max-w-screen-xl m-auto px-4 text-center">
+        <p>Built with <a href="https://stattic.site/" target="_blank" class="text-links font-bold" aria-label="Stattic - opens in a new tab">Stattic</a></p>
+    </div>
+</footer>
+
+</body>
+</html>
