@@ -3,7 +3,12 @@
     
     <url>
         <loc>https://blog.pluginpal.app/</loc>
-        <lastmod>2025-05-27T00:06:36Z</lastmod>
+        <lastmod>2025-05-27T00:07:58Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/</loc>
+        <lastmod>2025-05-22T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -22,8 +27,8 @@
     </url>
     
     <url>
-        <loc>https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/</loc>
-        <lastmod>2025-05-22T00:00:00Z</lastmod>
+        <loc>https://blog.pluginpal.app/blog/5-common-wordpress-features-you-can-build-without-code/</loc>
+        <lastmod>2025-05-25T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -37,18 +42,13 @@
     </url>
     
     <url>
-        <loc>https://blog.pluginpal.app/blog/5-common-wordpress-features-you-can-build-without-code/</loc>
-        <lastmod>2025-05-25T00:00:00Z</lastmod>
-    </url>
-    
-    <url>
         <loc>https://blog.pluginpal.app/blog/the-surprisingly-simple-way-to-build-wordpress-plugins-without-code/</loc>
         <lastmod>2025-05-21T00:00:00Z</lastmod>
     </url>
     
     <url>
         <loc>https://blog.pluginpal.app/about/</loc>
-        <lastmod>2025-05-27T00:06:36Z</lastmod>
+        <lastmod>2025-05-27T00:07:58Z</lastmod>
     </url>
     
 </urlset>
