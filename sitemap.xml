@@ -3,12 +3,7 @@
     
     <url>
         <loc>https://blog.pluginpal.app/</loc>
-        <lastmod>2025-05-25T23:59:11Z</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</loc>
-        <lastmod>2025-05-20T00:00:00Z</lastmod>
+        <lastmod>2025-05-26T23:59:56Z</lastmod>
     </url>
     
     <url>
@@ -22,18 +17,28 @@
     </url>
     
     <url>
+        <loc>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</loc>
+        <lastmod>2025-05-20T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
         <loc>https://blog.pluginpal.app/blog/save-time-on-wordpress-development-with-plugin-pal/</loc>
         <lastmod>2025-05-24T00:00:00Z</lastmod>
     </url>
     
     <url>
-        <loc>https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/</loc>
-        <lastmod>2025-05-23T00:00:00Z</lastmod>
+        <loc>https://blog.pluginpal.app/blog/7-ai-tools-for-wordpress-beyond-content/</loc>
+        <lastmod>2025-05-26T00:00:00Z</lastmod>
     </url>
     
     <url>
         <loc>https://blog.pluginpal.app/blog/5-common-wordpress-features-you-can-build-without-code/</loc>
         <lastmod>2025-05-25T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/</loc>
+        <lastmod>2025-05-23T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -43,7 +48,7 @@
     
     <url>
         <loc>https://blog.pluginpal.app/about/</loc>
-        <lastmod>2025-05-25T23:59:11Z</lastmod>
+        <lastmod>2025-05-26T23:59:56Z</lastmod>
     </url>
     
 </urlset>

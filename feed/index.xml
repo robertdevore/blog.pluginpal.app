@@ -5,17 +5,8 @@
 <link>https://blog.pluginpal.app/</link>
 <description>Latest posts from blog.pluginpal.app</description>
 <atom:link href="https://blog.pluginpal.app/feed/index.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Mon, 26 May 2025 03:59:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 May 2025 03:59:56 GMT</lastBuildDate>
 <language>en-us</language>
-
-<item>
-<title>Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How) - blog.pluginpal.app</title>
-<link>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</link>
-<description>For years, if you wanted a custom WordPress plugin, you had three options: - Hire a developer (expensive, time-consuming) - Use a bloated plugin that sort of worked - Or...
-</description>
-<guid isPermaLink="false">f055063febde7d862fe7da1b27a7a7d7</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
-</item>
 
 <item>
 <title>Welcome to the Plugin Pal blog - blog.pluginpal.app</title>
@@ -23,7 +14,7 @@
 <description>Let's keep this simple. Plugin Pal is live - and this blog is where it all unfolds. If you're a WordPress developer (or even just plugin-curious), this is for you....
 </description>
 <guid isPermaLink="false">6993ded41a2d73702b3f7594c6e64312</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 <item>
@@ -32,7 +23,16 @@
 <description>Somewhere along the way, WordPress forgot who it was for. What used to be a lean publishing platform has become a bloated mess of conditional logic, over-engineered plugins, and endless...
 </description>
 <guid isPermaLink="false">8894753e2eb9759fb401a8a7e6925421</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
+</item>
+
+<item>
+<title>Can Non-Developers Finally Build WordPress Plugins? (Yes, and Here's How) - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/do-you-need-a-wordpress-developer-to-build-your-plugins/</link>
+<description>For years, if you wanted a custom WordPress plugin, you had three options: - Hire a developer (expensive, time-consuming) - Use a bloated plugin that sort of worked - Or...
+</description>
+<guid isPermaLink="false">f055063febde7d862fe7da1b27a7a7d7</guid>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 <item>
@@ -41,16 +41,16 @@
 <description>WordPress is powerful. But it's also bloated, repetitive, and way too manual for 90% of the tasks clients ask for. Custom post type? You know the drill. Settings page? Time...
 </description>
 <guid isPermaLink="false">5738bcb19c92f1454fed7067a9eabcf4</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 <item>
-<title>Agencies: How Many Hours Do You Lose Waiting on Plugin Edits? - blog.pluginpal.app</title>
-<link>https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/</link>
-<description>Let's talk about your real bottleneck. - It's not finding clients. - It's not pitching. - It's not even getting the initial build live. It's waiting. Every agency owner knows...
+<title>7 AI Tools for WordPress That Go Beyond Content Generation - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/7-ai-tools-for-wordpress-beyond-content/</link>
+<description>Let's be honest. Most people hear &amp;quot;AI for WordPress&amp;quot; and immediately think of blog post generators or SEO spam. But the real power of AI is in fixing the other...
 </description>
-<guid isPermaLink="false">7aee4e4d3e08bc8ae51f482dccd33ac0</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<guid isPermaLink="false">4bcc0613014132e7a8398bcf3cbd8a72</guid>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 <item>
@@ -59,7 +59,16 @@
 <description>Let's cut to it. Most WordPress features aren't complex. They're just buried under layers of code, plugin bloat, and outdated workflows that assume every change needs a developer. Spoiler: it...
 </description>
 <guid isPermaLink="false">38fd266e4e398f00922ca88c55bfbb69</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
+</item>
+
+<item>
+<title>Agencies: How Many Hours Do You Lose Waiting on Plugin Edits? - blog.pluginpal.app</title>
+<link>https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/</link>
+<description>Let's talk about your real bottleneck. - It's not finding clients. - It's not pitching. - It's not even getting the initial build live. It's waiting. Every agency owner knows...
+</description>
+<guid isPermaLink="false">7aee4e4d3e08bc8ae51f482dccd33ac0</guid>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 <item>
@@ -68,7 +77,7 @@
 <description>Let's be honest. Most &amp;quot;no-code&amp;quot; tools for WordPress either overpromise, underdeliver, or wrap you in so much complexity that you may as well just learn to code. You've got drag-and-drop...
 </description>
 <guid isPermaLink="false">f02fd77a415ca78e37358056f0d8fdfb</guid>
-<pubDate>Sun, 25 May 2025 23:59:11 +0000</pubDate>
+<pubDate>Mon, 26 May 2025 23:59:56 +0000</pubDate>
 </item>
 
 </channel>
