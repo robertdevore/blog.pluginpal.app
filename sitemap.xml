@@ -3,17 +3,7 @@
     
     <url>
         <loc>https://blog.pluginpal.app/</loc>
-        <lastmod>2025-05-26T23:59:56Z</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://blog.pluginpal.app/blog/welcome-to-the-plugin-pal-blog/</loc>
-        <lastmod>2025-05-19T00:00:00Z</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/</loc>
-        <lastmod>2025-05-22T00:00:00Z</lastmod>
+        <lastmod>2025-05-27T00:06:36Z</lastmod>
     </url>
     
     <url>
@@ -22,8 +12,8 @@
     </url>
     
     <url>
-        <loc>https://blog.pluginpal.app/blog/save-time-on-wordpress-development-with-plugin-pal/</loc>
-        <lastmod>2025-05-24T00:00:00Z</lastmod>
+        <loc>https://blog.pluginpal.app/blog/welcome-to-the-plugin-pal-blog/</loc>
+        <lastmod>2025-05-19T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -32,13 +22,23 @@
     </url>
     
     <url>
-        <loc>https://blog.pluginpal.app/blog/5-common-wordpress-features-you-can-build-without-code/</loc>
-        <lastmod>2025-05-25T00:00:00Z</lastmod>
+        <loc>https://blog.pluginpal.app/blog/you-shouldnt-need-a-dev-for-a-hide-price-until-logged-in-toggle/</loc>
+        <lastmod>2025-05-22T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://blog.pluginpal.app/blog/save-time-on-wordpress-development-with-plugin-pal/</loc>
+        <lastmod>2025-05-24T00:00:00Z</lastmod>
     </url>
     
     <url>
         <loc>https://blog.pluginpal.app/blog/agencies-how-many-hours-do-you-lose-waiting-on-plugin-edits/</loc>
         <lastmod>2025-05-23T00:00:00Z</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://blog.pluginpal.app/blog/5-common-wordpress-features-you-can-build-without-code/</loc>
+        <lastmod>2025-05-25T00:00:00Z</lastmod>
     </url>
     
     <url>
@@ -48,7 +48,7 @@
     
     <url>
         <loc>https://blog.pluginpal.app/about/</loc>
-        <lastmod>2025-05-26T23:59:56Z</lastmod>
+        <lastmod>2025-05-27T00:06:36Z</lastmod>
     </url>
     
 </urlset>
